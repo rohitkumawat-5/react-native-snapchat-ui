@@ -10,7 +10,7 @@ A modern Snapchat-inspired Chat UI built with React Native and Expo.
 
 ## 📸 Preview
 
-![React Native Snapchat UI](screenshot/snapchat-ui.png)
+![React Native Snapchat UI](screenshort/snapchat-ui.png)
 
 ## ✨ Features
 
